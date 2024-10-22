@@ -1,4 +1,7 @@
 # bedasawayessa.github.io
+
+[Visit my GitHub profile](https://github.com/bedasawayessa)
+
 Build your portfolio project (Week 3): Project Landing Page
 
 What is a Landing Page?
